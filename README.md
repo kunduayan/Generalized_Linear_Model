@@ -1,4 +1,4 @@
-# Generalized_Linear_Model-
+# Generalized_Linear_Model
 
 This contains fitting of 3 different types of regression models
 
