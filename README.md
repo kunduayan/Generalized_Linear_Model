@@ -10,9 +10,9 @@ Along with that it contains 3 datasets that is used for fitting the regression m
 
 1. logistic_data.csv - it contains 3 variables as 
                         
-a. gpa of the candidate
-b. work experience of the candidate
-c. whether the candidate admitted for a particular course with 2 outcomes 1 for yes and 0 for no
+        a. gpa of the candidate
+        b. work experience of the candidate
+        c. whether the candidate admitted for a particular course with 2 outcomes 1 for yes and 0 for no
 2. linear_data.csv - it contains 3 varaibles as 
                         a. horsepower of cars
                         b. acceleration of cars 
